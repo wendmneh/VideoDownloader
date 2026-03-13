@@ -14,7 +14,6 @@ VideoDownloader is a versatile and powerful tool designed to simplify the proces
 
 
 
-## 👥 Contributing
 
 Contributions are welcome! Here's how you can help:
 
